@@ -5,6 +5,8 @@ This **Power BI dashboard** provides a comprehensive analysis of **bike purchasi
 
 Through **data visualization and analytical techniques**, this project aims to answer critical business questions that can help in **marketing, inventory management, and customer targeting strategies**.  
 
+## Dataset Used
+- <a href = "https://github.com/johnonyebuchi91/PowerBi-Projects/blob/main/Bike%20Purchase%20Analysis.pbix"> Bike_Analysis_Dataset</a>
 ---
 
 ## ❓ Key Business Questions (KPIs)  
@@ -19,6 +21,8 @@ This analysis addresses several key performance indicators (**KPIs**) to provide
 7. **What is the correlation between homeownership and bike ownership?**  
 
 ---
+## Dashboard
+
 
 ## 🔄 Data Processing & Methodology  
 
