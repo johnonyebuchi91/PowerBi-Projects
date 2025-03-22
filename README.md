@@ -22,7 +22,7 @@ This analysis addresses several key performance indicators (**KPIs**) to provide
 
 ---
 ## Dashboard
-
+![Bike Purchase Analysis pdf - WPS Office 22_03_2025 11_49_24](https://github.com/user-attachments/assets/9e058d67-5ef3-4a94-8715-e448d825450e)
 
 ## 🔄 Data Processing & Methodology  
 
